@@ -1,4 +1,4 @@
-### Hi I'm Aly!
+### Hi I'm Aly! 👋
 ---
 I am a Computer Science graduate from Universidade Paulista in Brazil, with a passion for data and a strong desire to contribute to a forward-thinking company. Throughout my education and career at Ci&T, a digital transformation company in Brazil, where I worked for seven years, I gained invaluable experience and knowledge. This journey inspired me to further enhance my skills and pursue new challenges.<br/>
 
