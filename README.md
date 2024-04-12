@@ -7,4 +7,5 @@ Driven by my love for learning and continuous improvement, I made the bold decis
 Outside of my professional pursuits, I am deeply committed to animal welfare. Alongside my two sisters, I co-founded a non-profit organization in Brazil dedicated to rescuing animals in need. We provide them with care and rehabilitation before working tirelessly to find them loving forever homes through adoption. Additionally, we manage an Instagram account called Pata Sem Dono, where we share stories of the animals we rescue and promote adoption initiatives.<br/>
 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/your_linkedin_profile](https://www.linkedin.com/in/alessandra-fults-6a3896149/))]([https://www.linkedin.com/in/your_linkedin_profile](https://www.linkedin.com/in/alessandra-fults-6a3896149/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alessandra-fults-6a3896149)](https://www.linkedin.com/in/alessandra-fults-6a3896149)
+
